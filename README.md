@@ -36,4 +36,12 @@
 
 ## สถานะ
 
-Demo v3 — Links, Multimedia และ Responsive พร้อมใช้งาน
+Demo v4 — Portfolio, PA Presentation, Rubric, Evidence และ Progress Review พร้อมใช้งาน
+
+
+## PA Presentation
+
+- Presentation: `presentation.html`
+- Assessment Rubric: `rubric.html`
+- Evidence: `evidence.html`
+- Progress Review: https://progress-web.itlabkktech.com/
