@@ -1,9 +1,1 @@
-@media (max-width:768px){
-
-    nav ul{
-
-        flex-direction:column;
-
-    }
-
-}
+@media(max-width:760px){nav{gap:.85rem;overflow-x:auto;justify-content:flex-start;font-size:.88rem}.hero{grid-template-columns:1fr;padding:2rem 1.2rem}.hero img{max-height:55vh}.cards{grid-template-columns:1fr}main{padding-top:3rem}}
