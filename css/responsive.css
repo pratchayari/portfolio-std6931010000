@@ -1,1 +1,2 @@
 @media(max-width:760px){nav{gap:.85rem;overflow-x:auto;justify-content:flex-start;font-size:.88rem}.hero{grid-template-columns:1fr;padding:2rem 1.2rem}.hero img{max-height:55vh}.cards{grid-template-columns:1fr}main{padding-top:3rem}}
+@media(max-width:900px){.stat-grid,.process-grid{grid-template-columns:repeat(2,1fr)}.rubric-table{display:block;overflow-x:auto}.evidence-list{grid-template-columns:1fr}}@media(max-width:520px){.stat-grid,.process-grid{grid-template-columns:1fr}}
