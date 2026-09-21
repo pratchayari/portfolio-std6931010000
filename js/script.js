@@ -1,0 +1,1 @@
+document.querySelectorAll('nav a').forEach(a=>{const page=location.pathname.split('/').pop()||'index.html';if(a.getAttribute('href')===page)a.setAttribute('aria-current','page')});
